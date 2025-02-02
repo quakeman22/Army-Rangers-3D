@@ -1,8 +1,8 @@
-<p align="center">Army Rangers 3D</p>
+<h3 align="left">Army Rangers 3D</h3>
 
 ###
 
-<p align="center">Um simples caminho para a versão full do jogo via JAD</p>
+<p align="left">Um simples caminho para a versão full do jogo via JAD</p>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://discord.gg/dwqBTkeTzp" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
@@ -22,6 +22,6 @@
 
 ###
 
-<h4 align="left">1 - Instale o jad via JL-Mod ou J2meLoader<br>2 - O emulador vai pedir pra baixar<br>3 - Obrigado de nada!</h4>
+<h6 align="left">1 - Instale o jad via JL-Mod ou J2meLoader<br>2 - O emulador vai pedir pra baixar<br>3 - Obrigado de nada!</h6>
 
 ###
